@@ -832,7 +832,7 @@
             }
         }
 
-        @media (max-width: 768px) {
+        @media (max-width: 850px) {
            .hero{
             max-height: 100vh;
             min-height: 600px;
@@ -850,7 +850,7 @@
             .hero-content {
                 padding: 28px 18px;
                 border-radius: 18px;
-                margin: 30px 100px;
+                margin: 100px 100px;
             }
 
             .hero-actions {
